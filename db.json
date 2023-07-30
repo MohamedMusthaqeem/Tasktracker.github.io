@@ -1,0 +1,16 @@
+{
+  "Tasks": [
+    {
+      "text": "My Portfolio",
+      "day": "Sunday Within 5pm",
+      "reminder": true,
+      "id": 1
+    },
+    {
+      "text": "React Calculator",
+      "day": "Sunday Within 2pm",
+      "reminder": true,
+      "id": 2
+    }
+  ]
+}
